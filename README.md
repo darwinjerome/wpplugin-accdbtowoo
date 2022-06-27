@@ -1,6 +1,6 @@
 # AccessDB to Woocommerce CSV Converter
 
-Converts an AccessDB subscriptions data into a Woocommerce-ready format. This also compares existing subscriptions in Woo to get related data.
+A PHP class that converts an AccessDB subscriptions data into a Woocommerce-ready format. This also compares existing subscriptions in Woo to get related data.
 
 ## Author
 
