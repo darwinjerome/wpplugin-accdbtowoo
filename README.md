@@ -4,7 +4,7 @@ A PHP class that converts an AccessDB subscriptions data into a Woocommerce-read
 
 ## Author
 
-[Darwin Jerome](darwinjerome@gmail.com)
+[Darwin Jerome](https://darwin.tardio.info)
 
 ### Stack
 
